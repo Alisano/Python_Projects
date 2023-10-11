@@ -10,7 +10,7 @@ def main():
 
     bias = 80e-6
     points = 1000
-    iteration = 10000000
+    iteration = 10000
     energy1 = 0.01
     vel_x1 = 0
     vel_y1 = -1
